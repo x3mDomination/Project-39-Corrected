@@ -1,2 +1,1 @@
-# Project-39-Corrected
-Fruit catcher game with a scoring system.
+# C39-Debug-Part-1
